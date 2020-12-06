@@ -2,7 +2,7 @@ Base param
 Height : 44m
 Diameter : 2.8 m
 Number of stages : 4
-Lift off mass : 320 tonnes (XL)
+Lift off mass : 320 tonnes(XL)
 
 Fourth Stage: PS4
 The PS4 is the uppermost stage of PSLV, comprising of two Earth storable
@@ -33,3 +33,4 @@ boosters.
 Engine : S139
 Fuel : HTPB
 Max. Thrust : 4800 kN
+
